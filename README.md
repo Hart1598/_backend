@@ -1,4 +1,4 @@
-# tz_backend
+# backend
 
 npm i - Install all dependencies
 
